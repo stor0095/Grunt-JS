@@ -1,0 +1,31 @@
+{
+  "name": "gruntproject",
+  "version": "1.0.0",
+  "description": "for gruntJS lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stor0095/Grunt-JS.git"
+  },
+  "keywords": [
+    "grunt",
+    "html"
+  ],
+  "author": "stor0995@algonquinlive.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stor0095/Grunt-JS/issues"
+  },
+  "homepage": "https://github.com/stor0095/Grunt-JS#readme",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-css": "^0.5.4"
+  }
+}
